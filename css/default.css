@@ -1,0 +1,20 @@
+h1 {
+    font-size: 2rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
+.abstract {
+  text-overflow: ellipsis;
+}
+
+.abstract-clickable {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.info-box {
+    border: 1px solid #DDDDDD;
+    padding: 5px 10px 5px 10px;
+    margin: 5px 20px 25px 10px;
+}

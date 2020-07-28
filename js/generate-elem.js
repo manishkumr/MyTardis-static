@@ -1125,81 +1125,10 @@ exp_array.forEach( elem => {
 		datasetList.appendChild(datsetLi)
 	})
 
-
     cardBody.appendChild(cardBodyRow)
     cardBody.appendChild(cardSubtitle)
 	cardBody.appendChild(descriptionText)
 	cardBody.appendChild(paraElem)
 	cardBody.appendChild(datasetList)
     exp.appendChild(card)
-    /*<div class="card" style="">
-                <div class="card-body">
-					<div class="row">
-						<div class="col-md-9">
-							<h5 class="card-title">
-								The crystal structure of a homodimeric Pseudomonas glyoxalase I enzyme reveals asymmetric
-								metallation commensurate with half-of-sites activity
-                    		</h5>
-						</div>
-						<div class="ml-auto mr-3">
-								<ul class="nav nav-pills badgelist">
-                        <li class="pull-right mr-2">
-							<span class="badge badge-success" property="dc:rights" content="All data is public"
-                                  title="All data is public">
-				  				<i class="icon-eye-open"></i>
-				  					&nbsp;
-				  					Public
-							</span>
-                        </li>
-                        <li class="pull-right mr-2">
-							<span class="badge badge-info" title="720 files">
-				  				<i class="icon-file"></i>&nbsp;
-				 					 720
-							</span>
-                        </li>
-                        <li class="pull-right mr-2">
-							<span class="badge badge-info" title="2 datasets">
-				  				<i class="icon-folder-close"></i>&nbsp;
-				  					2
-							</span>
-                        </li>
-                        <li class="pull-right mr-2">
-							<span class="badge badge-info" title="Last updated: Thu 05 Nov 2015 22:14">
-				  				<i class="icon-time"></i>&nbsp;
-								<span property="dc:modified" class="modified" content="2015-11-06T09:14:06.262874+11:00"
-                                      datatype="xsd:dataType">
-									5th November 2015
-								</span>
-							</span>
-                        </li>
-                        <li>
-                            <span href="#" class="badge badge-primary">Download as tar</span>
-                        </li>
-                    </ul>
-						</div>
-					</div>
-                    <h6 class="card-subtitle mb-2 text-muted">
-                        <span property="dc:author">Rohan Bythell-Douglas</span>,
-                        <span property="dc:author">Charles Bond</span>
-                    </h6>
-                    <p class="card-text col-md-9 collapse" id="collapse-text" style="background-color: lavenderblush">
-                        The Zn inactive class of glyoxalase I (Glo1) enzymes are metalloenzymes that are typically
-                        homodimeric with two metal-dependent active sites. While the two active sites share identical
-                        amino acid composition, this class of enzyme is optimally active with only one metal per
-                        homodimer. We have determined the X-ray crystal structure of GloA2, one of the Zn inactive Glo1
-                        enzymes from Pseudomonas aeruginosa. The presented structures exhibit an unprecedented
-                        metal-binding arrangement consistent with half-of-sites activity: one active site contains a
-                        single activating Ni2+ ion while the other contains two inactivating Zn2+ ions.
-                        Students from UWA CHEM3007 Undergraduate Unit helped with some of the data collection.</p>
-                    <p>Latest dataset in this experiment</p>
-                    <ul>
-                        <li style="list-style: none">
-                            <a href="/dataset/54332">
-                                <strong>Raw data for D3_2</strong>
-                            </a>
-                        </li>
-                    </ul>
-
-                </div>
-            </div>*/
 })
