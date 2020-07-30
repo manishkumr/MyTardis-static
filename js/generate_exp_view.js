@@ -1,5 +1,13 @@
 const data = [
 	{
+		"datasets": [
+			{
+				"folder": "",
+				"file_count": 720,
+				"description": "H4_1",
+				"size": 6040166400
+			}
+		],
 		"name": "Structure-Informed Design of an Enzymatically Inactive Vaccine Component for Group A Streptococcus",
 		"date_modified": "2014-03-24 05:28:04.911373+00:00",
 		"datafile_count": 720,
@@ -112,6 +120,68 @@ const data = [
 		"size": 6040166400
 	},
 	{
+		"datasets": [
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "D6_2",
+				"size": 3397478400
+			},
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "D6_1",
+				"size": 3397478400
+			},
+			{
+				"folder": "",
+				"file_count": 10,
+				"description": "D6_0",
+				"size": 188748800
+			},
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "C6_1",
+				"size": 3397478400
+			},
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "C5_1",
+				"size": 3397478400
+			},
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "B7_2",
+				"size": 3397478400
+			},
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "B6_2",
+				"size": 3397478400
+			},
+			{
+				"folder": "",
+				"file_count": 165,
+				"description": "A8_2",
+				"size": 3114355200
+			},
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "A6_2",
+				"size": 3397478400
+			},
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "A5_2",
+				"size": 3397478400
+			}
+		],
 		"name": "Crystal Structures of Three Classes of Non-Steroidal Anti-Inflammatory Drugs in Complex with Aldo-Keto Reductase 1C3",
 		"date_modified": "2014-03-24 05:27:55.791952+00:00",
 		"datafile_count": 1615,
@@ -486,6 +556,32 @@ const data = [
 		"size": 30482931200
 	},
 	{
+		"datasets": [
+			{
+				"folder": "",
+				"file_count": 720,
+				"description": "G6_3",
+				"size": 13589913600
+			},
+			{
+				"folder": "",
+				"file_count": 720,
+				"description": "G6_2",
+				"size": 13589913600
+			},
+			{
+				"folder": "",
+				"file_count": 720,
+				"description": "G6_1",
+				"size": 13589913600
+			},
+			{
+				"folder": "",
+				"file_count": 720,
+				"description": "D6_1",
+				"size": 13589913600
+			}
+		],
 		"name": "Structure of the heterodimer of human NONO and paraspeckle protein component 1",
 		"date_modified": "2014-03-24 05:27:47.031404+00:00",
 		"datafile_count": 2880,
@@ -612,6 +708,32 @@ const data = [
 		"size": 54359654400
 	},
 	{
+		"datasets": [
+			{
+				"folder": "",
+				"file_count": 94,
+				"description": "2K3e_5",
+				"size": 1774238720
+			},
+			{
+				"folder": "",
+				"file_count": 180,
+				"description": "2K3d_4",
+				"size": 3397478400
+			},
+			{
+				"folder": "",
+				"file_count": 120,
+				"description": "2K7c_3",
+				"size": 2264985600
+			},
+			{
+				"folder": "",
+				"file_count": 181,
+				"description": "2K3c_3",
+				"size": 3416353280
+			}
+		],
 		"name": "Derivatives for structure solution of the peripheral stalk from T.thermophilus A-ATPase",
 		"date_modified": "2014-03-24 05:28:13.456665+00:00",
 		"datafile_count": 575,
@@ -716,6 +838,20 @@ const data = [
 		"size": 10853056000
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 1,
+				"description": "testcrystal_0",
+				"size": 8389632
+			},
+			{
+				"folder": null,
+				"file_count": 180,
+				"description": "testcrystal_1",
+				"size": 1510133760
+			}
+		],
 		"name": "Test Experiment MX1cal20130930",
 		"date_modified": "2014-03-24 05:28:39.618975+00:00",
 		"datafile_count": 181,
@@ -747,6 +883,14 @@ const data = [
 		"size": 1518523392
 	},
 	{
+		"datasets": [
+			{
+				"folder": "",
+				"file_count": 220,
+				"description": "smax_mg_D4_3",
+				"size": 4152473600
+			}
+		],
 		"name": "Defining the interaction of perforin with calcium and the phospholipid membrane",
 		"date_modified": "2014-03-25 00:39:58.705267+00:00",
 		"datafile_count": 220,
@@ -851,6 +995,74 @@ const data = [
 		"size": 4152473600
 	},
 	{
+		"datasets": [
+			{
+				"folder": "frames/Rohan",
+				"file_count": 360,
+				"description": "Raw data for C4_Zn_low_1",
+				"size": 3020083200
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 1,
+				"description": "Raw data for C4_Zn_low_0",
+				"size": 8389120
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 360,
+				"description": "Raw data for C4_Zn_high_1",
+				"size": 3020083200
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 2,
+				"description": "Raw data for C4_Zn_high_0",
+				"size": 16778240
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 360,
+				"description": "Raw data for C4_Ni_low_1",
+				"size": 3020083200
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 4,
+				"description": "Raw data for C4_Ni_low_0",
+				"size": 33556480
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 360,
+				"description": "Raw data for C4_Ni_high_1",
+				"size": 3020083200
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 2,
+				"description": "Raw data for C4_Ni_high_0",
+				"size": 16778240
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 360,
+				"description": "Raw data for C4_native_1",
+				"size": 3020083200
+			},
+			{
+				"folder": "frames/Rohan",
+				"file_count": 2,
+				"description": "Raw data for C4_native_0",
+				"size": 16778240
+			},
+			{
+				"folder": "frames",
+				"file_count": 360,
+				"description": "Raw data for B8_1",
+				"size": 6794956800
+			}
+		],
 		"name": "The crystal structure of a homodimeric Pseudomonas glyoxalase I enzyme reveals asymmetric metallation commensurate with half-of-sites activity",
 		"date_modified": "2015-11-04 07:54:53.470903+00:00",
 		"datafile_count": 2171,
@@ -1159,6 +1371,14 @@ const data = [
 		"size": 21987653120
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 0,
+				"description": "Australian Synchrotron Proposal ID: 286",
+				"size": 0
+			}
+		],
 		"name": "Specialist Crystallography at the Australian Synchrotron",
 		"date_modified": "2010-08-26 00:00:00+00:00",
 		"datafile_count": 0,
@@ -1179,6 +1399,20 @@ const data = [
 		"size": 0
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 2,
+				"description": "Ancillary Files",
+				"size": 14446954
+			},
+			{
+				"folder": null,
+				"file_count": 127,
+				"description": "Images",
+				"size": 2397564928
+			}
+		],
 		"name": "Bacterioferritin from Mycobacterium smegmatis contains zinc in its di-nuclear site.",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 129,
@@ -1200,6 +1434,26 @@ const data = [
 		"size": 2412011882
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 807,
+				"description": "Log Files",
+				"size": 1143534320
+			},
+			{
+				"folder": null,
+				"file_count": 360,
+				"description": "Low Resolution",
+				"size": 3020083200
+			},
+			{
+				"folder": null,
+				"file_count": 362,
+				"description": "High Resolution",
+				"size": 3020084172
+			}
+		],
 		"name": "The X-ray crystal structure of Escherichia coli succinic semialdehyde dehydrogenase; structural insights into NADP+ / enzyme interactions",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 1529,
@@ -1227,6 +1481,20 @@ const data = [
 		"size": 7183701692
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 720,
+				"description": "xtal8 small oscillation angle",
+				"size": 13589913600
+			},
+			{
+				"folder": null,
+				"file_count": 3437,
+				"description": "xtal8 small oscillation angle",
+				"size": 28826331136
+			}
+		],
 		"name": "Structure of the Plasmodium falciparum PfA-M17",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 4157,
@@ -1246,6 +1514,20 @@ const data = [
 		"size": 42416244736
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 1,
+				"description": "Ancillary Files",
+				"size": 261880
+			},
+			{
+				"folder": null,
+				"file_count": 298,
+				"description": "Native",
+				"size": 6645375372
+			}
+		],
 		"name": "X-ray crystal structure of MENT: evidence for functional loop-sheet polymers in chromatin condensation.",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 299,
@@ -1268,6 +1550,32 @@ const data = [
 		"size": 6645637252
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 9,
+				"description": "M1_3EBG Structure of the M1 Alanylaminopeptidase from malaria<br/>9_refmac5_final.log Final refinement log file. Refmac v5.2.0019<br/>80_scala.log Processing log file from SCALA<br/>p212121_scala1.mtz Processed data<br/><br/>M1_BES_3EBH Structure of the M1 Alanylaminopeptidase from malaria complexed with bestatin <br/>4_refmac5_finalBES.log Final refinement log file. Refmac v5.2.0019<br/>41_scala.log Processing log file from SCALA<br/>xtal8c_p212121_scala1.mtz Processed data<br/><br/>M1_Co4_3EBI Structure of the M1 Alanylaminopeptidase from malaria complexed with the phosphinate dipeptide analog<br/>.osc files Raw image files. In-house Rotating Anode (Rigaku RAxis IV)<br/>12_refmac5_final Co4.log Final refinement log file. Refmac v5.2.0019<br/>45_scala.log Processing log file from SCALA<br/>3EBIco4_p212121_scala1.mtz Processed data",
+				"size": 24868300
+			},
+			{
+				"folder": null,
+				"file_count": 470,
+				"description": "Structure of the M1 Alanylaminopeptidase from malaria complexed with bestatin",
+				"size": 8414258830
+			},
+			{
+				"folder": null,
+				"file_count": 363,
+				"description": "Structure of the M1 Alanylaminopeptidase from malaria complexed with the phosphinate dipeptide analog",
+				"size": 3029308012
+			},
+			{
+				"folder": null,
+				"file_count": 275,
+				"description": "Structure of the M1 Alanylaminopeptidase from malaria",
+				"size": 4907818658
+			}
+		],
 		"name": "Structural basis for the inhibition of the essential Plasmodium falciparum M1 neutral aminopeptidase",
 		"date_modified": "2010-04-30 00:00:00+00:00",
 		"datafile_count": 1117,
@@ -1290,6 +1598,44 @@ const data = [
 		"size": 16376253800
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 5,
+				"description": "AprV2.C141S",
+				"size": 23404595
+			},
+			{
+				"folder": null,
+				"file_count": 5,
+				"description": "AprB2",
+				"size": 44153579
+			},
+			{
+				"folder": null,
+				"file_count": 5,
+				"description": "AprV2",
+				"size": 20377941
+			},
+			{
+				"folder": null,
+				"file_count": 364,
+				"description": "AprV2.C141S",
+				"size": 6300308888
+			},
+			{
+				"folder": null,
+				"file_count": 799,
+				"description": "AprB2",
+				"size": 14067553216
+			},
+			{
+				"folder": null,
+				"file_count": 446,
+				"description": "AprV2",
+				"size": 7747352085
+			}
+		],
 		"name": "Virulence-associated subtilisin-like proteases that use a novel disulphide-tethered exosite to mediate substrate specificity",
 		"date_modified": "2010-11-25 00:00:00+00:00",
 		"datafile_count": 1624,
@@ -1328,6 +1674,20 @@ const data = [
 		"size": 28203150304
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 753,
+				"description": "3T8W_Dataset2",
+				"size": 14212784640
+			},
+			{
+				"folder": null,
+				"file_count": 999,
+				"description": "3T8W_dataset1",
+				"size": 18856005120
+			}
+		],
 		"name": "A bestatin-based chemical biology strategy reveals distinct roles for malaria M1- and M17-family aminopeptidases",
 		"date_modified": "2011-09-23 00:00:00+00:00",
 		"datafile_count": 1752,
@@ -1349,6 +1709,14 @@ const data = [
 		"size": 33068789760
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 241,
+				"description": "Images",
+				"size": 4288573765
+			}
+		],
 		"name": "X-ray crystal structure of the fibrinolysis inhibitor {alpha}2-antiplasmin",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 241,
@@ -1369,6 +1737,20 @@ const data = [
 		"size": 4288573765
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 2,
+				"description": "Ancillary Files",
+				"size": 60295696
+			},
+			{
+				"folder": null,
+				"file_count": 665,
+				"description": "Inhouse",
+				"size": 11708139157
+			}
+		],
 		"name": "The 1.6 A Crystal Structure of the Catalytic Domain of PlyB, a Bacteriophage Lysin Active Against Bacillus anthracis.",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 667,
@@ -1390,6 +1772,44 @@ const data = [
 		"size": 11768434853
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 5,
+				"description": "Ancillary Files",
+				"size": 174248890
+			},
+			{
+				"folder": null,
+				"file_count": 215,
+				"description": "Native 2.0 Angstroms Collection",
+				"size": 1795314692
+			},
+			{
+				"folder": null,
+				"file_count": 388,
+				"description": "Derivative (KI) in-house",
+				"size": 6950897572
+			},
+			{
+				"folder": null,
+				"file_count": 688,
+				"description": "Derivative (KPtCl) inhouse Collection date",
+				"size": 12370128148
+			},
+			{
+				"folder": null,
+				"file_count": 469,
+				"description": "Derivative (EMSA) in-house",
+				"size": 8426851012
+			},
+			{
+				"folder": null,
+				"file_count": 511,
+				"description": "Native 2.5 Angstroms Collection",
+				"size": 9166245940
+			}
+		],
 		"name": "A common fold mediates vertebrate defense and bacterial attack",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 2276,
@@ -1412,6 +1832,20 @@ const data = [
 		"size": 38883686254
 	},
 	{
+		"datasets": [
+			{
+				"folder": "frames",
+				"file_count": 360,
+				"description": "Raw data for D3_2",
+				"size": 6794956800
+			},
+			{
+				"folder": "frames",
+				"file_count": 360,
+				"description": "Raw data for D3_1",
+				"size": 6794956800
+			}
+		],
 		"name": "The crystal structure of a homodimeric Pseudomonas glyoxalase I enzyme reveals asymmetric metallation commensurate with half-of-sites activity",
 		"date_modified": "2015-11-05 22:14:06.262874+00:00",
 		"datafile_count": 720,
@@ -1594,6 +2028,20 @@ const data = [
 		"size": 13589913600
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 1,
+				"description": "Ancillary Files",
+				"size": 1806952
+			},
+			{
+				"folder": null,
+				"file_count": 515,
+				"description": "Native",
+				"size": 9184646875
+			}
+		],
 		"name": "The crystal structure of DehI reveals a new alpha-haloacid dehalogenase fold and active-site mechanism.",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 516,
@@ -1614,6 +2062,26 @@ const data = [
 		"size": 9186453827
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 0,
+				"description": "Ancillary Files",
+				"size": 0
+			},
+			{
+				"folder": null,
+				"file_count": 177,
+				"description": "APS Source 80 Deg 5 Sec 0.5 Deg - p212121",
+				"size": 1742775079
+			},
+			{
+				"folder": null,
+				"file_count": 279,
+				"description": "APS Source 125 Deg (includes xfiles, denzo)",
+				"size": 2857787943
+			}
+		],
 		"name": "The high resolution crystal structure of a native thermostable serpin reveals the complex mechanism underpinning the stressed to relaxed transition.",
 		"date_modified": "2011-09-12 00:00:00+00:00",
 		"datafile_count": 456,
@@ -1643,6 +2111,14 @@ const data = [
 		"size": 4600563022
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 132,
+				"description": "Native",
+				"size": 2269517049
+			}
+		],
 		"name": "The structure of granzyme C reveals an unusual mechanism of protease auto-inhibition",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 132,
@@ -1666,6 +2142,20 @@ const data = [
 		"size": 2269517049
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 5,
+				"description": "Ancillary Files",
+				"size": 90765842
+			},
+			{
+				"folder": null,
+				"file_count": 121,
+				"description": "Native 2.0 Angstroms",
+				"size": 2160726148
+			}
+		],
 		"name": "Crystal structure of scabies mite inactivated protease paralogue S-D1 (SMIPP-S-D1)",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 126,
@@ -1685,6 +2175,26 @@ const data = [
 		"size": 2251491990
 	},
 	{
+		"datasets": [
+			{
+				"folder": "frames/B5",
+				"file_count": 360,
+				"description": "Raw data for B5_2",
+				"size": 6794956800
+			},
+			{
+				"folder": "frames/B5",
+				"file_count": 360,
+				"description": "Raw data for B5_1",
+				"size": 6794956800
+			},
+			{
+				"folder": "frames/F6",
+				"file_count": 180,
+				"description": "Raw data for F6_1",
+				"size": 3397478400
+			}
+		],
 		"name": "The crystal structure of a homodimeric Pseudomonas glyoxalase I enzyme reveals asymmetric metallation commensurate with half-of-sites activity",
 		"date_modified": "2015-10-28 03:36:10.728308+00:00",
 		"datafile_count": 900,
@@ -1893,6 +2403,38 @@ const data = [
 		"size": 16987392000
 	},
 	{
+		"datasets": [
+			{
+				"folder": "frames",
+				"file_count": 360,
+				"description": "Raw data for C7_Znlow_1",
+				"size": 6794956800
+			},
+			{
+				"folder": "frames",
+				"file_count": 360,
+				"description": "Raw data for C7_Znhigh_1",
+				"size": 6794956800
+			},
+			{
+				"folder": "frames/B7",
+				"file_count": 360,
+				"description": "Raw data for B7_3",
+				"size": 6794956800
+			},
+			{
+				"folder": "frames/B7",
+				"file_count": 360,
+				"description": "Raw data for B7_2",
+				"size": 6794956800
+			},
+			{
+				"folder": "frames/B7",
+				"file_count": 360,
+				"description": "Raw data for B7_1",
+				"size": 6794956800
+			}
+		],
 		"name": "The crystal structure of a homodimeric Pseudomonas glyoxalase I enzyme reveals asymmetric metallation commensurate with half-of-sites activity",
 		"date_modified": "2015-11-05 22:13:07.722484+00:00",
 		"datafile_count": 1800,
@@ -2127,6 +2669,20 @@ const data = [
 		"size": 33974784000
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 801,
+				"description": "zinc soak unbound",
+				"size": 15118778880
+			},
+			{
+				"folder": null,
+				"file_count": 999,
+				"description": "zinc soak unbound",
+				"size": 18856005120
+			}
+		],
 		"name": "Structure of the Plasmodium falciparum PfA-M17_ZnZn",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 1800,
@@ -2146,6 +2702,20 @@ const data = [
 		"size": 33974784000
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 2,
+				"description": "Ancillary Files",
+				"size": 15199234
+			},
+			{
+				"folder": null,
+				"file_count": 184,
+				"description": "Inhouse",
+				"size": 3244250373
+			}
+		],
 		"name": "The Crystal Structure of the Transthyretin-like Protein from Salmonella dublin, a Prokaryote 5-Hydroxyisourate Hydrolase",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 186,
@@ -2167,6 +2737,32 @@ const data = [
 		"size": 3259449607
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 755,
+				"description": "PfA-M17 with Compound4 bound in active sites",
+				"size": 14250534400
+			},
+			{
+				"folder": null,
+				"file_count": 999,
+				"description": "PfA-M17 with Compound4 bound in active sites",
+				"size": 18856005120
+			},
+			{
+				"folder": null,
+				"file_count": 686,
+				"description": "PfA-M17 with Compound4 bound in active sites",
+				"size": 13434234622
+			},
+			{
+				"folder": null,
+				"file_count": 302,
+				"description": "PfA-M17 with Compound 4 bound in active site",
+				"size": 5883232226
+			}
+		],
 		"name": "Structure of the Plasmodium falciparum PfA-M17_Co4",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 2742,
@@ -2186,6 +2782,44 @@ const data = [
 		"size": 52424006368
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 994,
+				"description": "mouse_perforin_R213E_I",
+				"size": 18761630720
+			},
+			{
+				"folder": null,
+				"file_count": 1114,
+				"description": "mouse_perforin_R213E_Ir",
+				"size": 21026616320
+			},
+			{
+				"folder": null,
+				"file_count": 1338,
+				"description": "mouse_perforin_R213E_Hg",
+				"size": 25254589440
+			},
+			{
+				"folder": null,
+				"file_count": 947,
+				"description": "mouse_perforin_R213E_Native2",
+				"size": 17874511360
+			},
+			{
+				"folder": null,
+				"file_count": 736,
+				"description": "mouse_perforin_R213E_Native1",
+				"size": 13891911680
+			},
+			{
+				"folder": null,
+				"file_count": 10,
+				"description": "Scala Logs & BUSTER Output",
+				"size": 10303319
+			}
+		],
 		"name": "The structural basis for membrane binding and pore formation by lymphocyte perforin",
 		"date_modified": "2011-05-27 00:00:00+00:00",
 		"datafile_count": 5139,
@@ -2220,6 +2854,14 @@ const data = [
 		"size": 96819562839
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 2644,
+				"description": "PfA-M17 with Bestatin bound in active site",
+				"size": 22172450308
+			}
+		],
 		"name": "Structure of the Plasmodium falciparum PfA-M17_BES",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 2644,
@@ -2239,6 +2881,20 @@ const data = [
 		"size": 22172450308
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 1,
+				"description": "Ancillary Files",
+				"size": 2290824
+			},
+			{
+				"folder": null,
+				"file_count": 201,
+				"description": "Native",
+				"size": 1249911176
+			}
+		],
 		"name": "Crystal structures of the substrate free-enzyme, and reaction intermediate of the HAD superfamily member, haloacid dehalogenase DehIVa from Burkholderia cepacia MBA4.",
 		"date_modified": "2010-02-26 00:00:00+00:00",
 		"datafile_count": 202,
@@ -2259,6 +2915,20 @@ const data = [
 		"size": 1252202000
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 252,
+				"description": "Glycoform 1 Humanplasminogen (4DUU)",
+				"size": 2390143824
+			},
+			{
+				"folder": null,
+				"file_count": 320,
+				"description": "Glycoform 2 Humanplasminogen (4DUR)",
+				"size": 3052835356
+			}
+		],
 		"name": "The X-ray Crystal Structure of Full-length Human Plasminogen",
 		"date_modified": "2012-08-22 00:00:00+00:00",
 		"datafile_count": 572,
@@ -2295,6 +2965,14 @@ const data = [
 		"size": 5442979180
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 240,
+				"description": "M18",
+				"size": 2286661748
+			}
+		],
 		"name": "X-ray crystal structure and specificity of the Plasmodium falciparum malaria aminopeptidase PfM18AAP",
 		"date_modified": "2012-08-09 00:00:00+00:00",
 		"datafile_count": 240,
@@ -2318,6 +2996,20 @@ const data = [
 		"size": 2286661748
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 411,
+				"description": "PlyC",
+				"size": 6990462420
+			},
+			{
+				"folder": null,
+				"file_count": 120,
+				"description": "PlyCB",
+				"size": 4026593280
+			}
+		],
 		"name": "X-ray crystal structure of the streptococcal specific phage lysin PlyC",
 		"date_modified": "2012-08-22 00:00:00+00:00",
 		"datafile_count": 531,
@@ -2343,6 +3035,20 @@ const data = [
 		"size": 11017055700
 	},
 	{
+		"datasets": [
+			{
+				"folder": null,
+				"file_count": 720,
+				"description": "Raw data for Compound 7c",
+				"size": 6040166400
+			},
+			{
+				"folder": null,
+				"file_count": 720,
+				"description": "Raw data for Compound 7d",
+				"size": 13589913600
+			}
+		],
 		"name": "Synthesis of new (-)-Bestatin-based inhibitor libraries reveals a novel binding mode in the S1 pocket of the essential malaria M1 metalloaminopeptidase.",
 		"date_modified": "2012-11-15 00:00:00+00:00",
 		"datafile_count": 1440,
@@ -2384,6 +3090,12 @@ function ordinal_suffix_of(i) {
         return i + "rd";
     }
     return i + "th";
+}
+function htmlToElement(html) {
+    let template = document.createElement('template');
+    html = html.trim();
+    template.innerHTML = html;
+    return template.content.firstChild;
 }
 console.log(experiment_id);
 //get data
@@ -2437,4 +3149,53 @@ function create_elems() {
     //dataset list
     const datasetCount = document.querySelector("#datasets-pane > h3")
     datasetCount.textContent = exp_data.dataset_count + " Datasets"
+	//dataset tiles
+	const datasetTilesList = document.querySelector("#datasets > ul")
+	const dataset_data = exp_data.datasets
+	dataset_data.forEach( dataset => {
+		//create card elem
+		datasetTilesList.append(htmlToElement(`<li class="dataset card mb-2 ui-sortable-handle" style="margin-left: 0">
+			<div class="dataset-tile thumbnail">
+			<div class="card-body">
+			<div class="float-left" style="margin-right: 10px">
+			<div style="display: flex; text-align: center; font-size: 32px">
+			<i class="fa fa-folder-open o-6"></i>
+			</div>
+			<br>
+			<label class="dataset-download-box badge badge-info" for="dataset-checkbox-54331" title="Mark dataset for download">
+			<i class="icon-download-alt"></i>
+			<input id="dataset-checkbox-54331" name="dataset" type="checkbox" class="dataset_checkbox" style="display: inline" value="54331">
+			 </label>
+			</div>
+			<div class="float-left" style="margin-right: 10px">
+			</div>
+			<div class="float-right" style="text-align: right">
+			<p>
+			<span class="badge badge-info" title="Contains 360 files">
+			<i class="icon-file"></i>&nbsp;
+			360
+			</span>
+			</p>
+			<p>
+			<span class="badge badge-info" title="Dataset size is ">
+			6.3&nbsp;GB
+			</span>
+			</p>
+			</div>
+			 <!--<div class="float-left ds-thumb" style="">\n' +
+			<canvas></canvas>\n' +
+			</div>-->
+			<p class="">
+			<a class="dataset-link">
+			Raw data for D3_1
+			</a>
+			</p>
+			<p style="color:grey;font-size:100%;">Folder:
+			 <span style="color:#3a87ad;font-weight:bold;" id="folder">frames</span>
+			</p>
+			<div style="clear: both"></div>
+			</div>
+			</div>
+			</li>`))
+	})
 }
