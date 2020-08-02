@@ -52,7 +52,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "2.48"
+						"value": "2.48\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -71,7 +71,7 @@ const data = [
 						"value": "P 1"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 87.91, b = 92.74, c = 120.97),(a = 96.15, b = 90.27, c = 100.13)"
 					},
 					{
@@ -252,7 +252,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "2.01"
+						"value": "2.01\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -271,7 +271,7 @@ const data = [
 						"value": "P 21 21 21"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 56.87, b = 63.77, c = 95.67),(a = 90.00, b = 90.00, c = 90.00)"
 					},
 					{
@@ -297,7 +297,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "1.8"
+						"value": "1.8\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -316,7 +316,7 @@ const data = [
 						"value": "P 21 21 21"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 57.79 , b = 64.53 , c = 96.18 ),(a = 90.00 , b = 90.00 , c = 90.00  )"
 					},
 					{
@@ -342,7 +342,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "1.9"
+						"value": "1.9\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -361,7 +361,7 @@ const data = [
 						"value": "P 21 21 21"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 58.55, b = 64.58, c = 96.56),(a = 90.00, b = 90.00, c = 90.00)"
 					},
 					{
@@ -387,7 +387,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "1.73"
+						"value": "1.73\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -406,7 +406,7 @@ const data = [
 						"value": "P 21 21 21"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 56.66 , b = 63.94 , c = 96.52 ),(a = 90.00 , b = 90.00 , c = 90.00)"
 					},
 					{
@@ -432,7 +432,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "1.9"
+						"value": "1.9\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -451,7 +451,7 @@ const data = [
 						"value": "P 21 21 21"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 57.29 , b = 64.04 , c = 95.98 ),(a = 90.00 , b = 90.00 , c = 90.00)"
 					},
 					{
@@ -477,7 +477,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "2.1"
+						"value": "2.1\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -496,7 +496,7 @@ const data = [
 						"value": "P 21 21 21"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 58.38 , b = 64.48 , c = 96.85 ),(a = 90.00 , b = 90.00 , c = 90.00)"
 					},
 					{
@@ -522,7 +522,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "2.3"
+						"value": "2.3\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -541,7 +541,7 @@ const data = [
 						"value": "P 21 21 21"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 58.76 , b = 64.93 , c = 96.27),(a = 90.00 , b = 90.00 , c = 90.00)"
 					},
 					{
@@ -632,7 +632,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "1.9"
+						"value": "1.9\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -651,7 +651,7 @@ const data = [
 						"value": "C 2"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 90.90, b = 67.18, c = 94.08),(a = 90.00 , b = 99.96 , c = 90.00)"
 					},
 					{
@@ -770,7 +770,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "2.25"
+						"value": "2.25\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -789,7 +789,7 @@ const data = [
 						"value": "P 21 21 2"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 102.51, b = 208.69, c = 36.90),(a = 90.00, b = 90.00, c = 90.00)"
 					},
 					{
@@ -927,7 +927,7 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": "1.6"
+						"value": "1.6\u00c5"
 					},
 					{
 						"name": "R-Free",
@@ -946,7 +946,7 @@ const data = [
 						"value": "I 1 2 1"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 25.35, b = 55.22, c = 89.75),(a = 90.00, b = 91.17, c = 90.00)"
 					},
 					{
@@ -1221,15 +1221,15 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": null
+						"value": "2.17\u00c5"
 					},
 					{
 						"name": "R-Free",
-						"value": null
+						"value": "0.2348"
 					},
 					{
 						"name": "R-Value",
-						"value": null
+						"value": "0.1771(obs.)"
 					},
 					{
 						"name": "Space Group",
@@ -1240,7 +1240,7 @@ const data = [
 						"value": "Ni- and Zn-bound GloA2 at low resolution"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 51.070, b = 51.070, c = 327.630),(alpha = 90.00, beta = 90.00, gamma = 120.00)"
 					},
 					{
@@ -1878,15 +1878,15 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": null
+						"value": "1.8\u00c5"
 					},
 					{
 						"name": "R-Free",
-						"value": null
+						"value": "0.2006"
 					},
 					{
 						"name": "R-Value",
-						"value": null
+						"value": "0.1655(obs.)"
 					},
 					{
 						"name": "Space Group",
@@ -1897,7 +1897,7 @@ const data = [
 						"value": "Ni- and Zn-bound GloA2 at high resolution"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 50.700, b = 50.700, c = 327.640),(alpha = 90.00, beta = 90.00, gamma = 120.00)"
 					},
 					{
@@ -2227,15 +2227,15 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": null
+						"value": "1.83\u00c5"
 					},
 					{
 						"name": "R-Free",
-						"value": null
+						"value": "0.2187"
 					},
 					{
 						"name": "R-Value",
-						"value": null
+						"value": "0.1836(obs.)"
 					},
 					{
 						"name": "Space Group",
@@ -2246,7 +2246,7 @@ const data = [
 						"value": "Zn-bound GloA2"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 40.788, b = 73.503, c = 80.011),(alpha = 90.00, beta = 90.00, gamma = 90.00)"
 					},
 					{
@@ -2532,15 +2532,15 @@ const data = [
 					},
 					{
 						"name": "Resolution",
-						"value": null
+						"value": "2.17\u00c5"
 					},
 					{
 						"name": "R-Free",
-						"value": null
+						"value": "0.2329"
 					},
 					{
 						"name": "R-Value",
-						"value": null
+						"value": "0.1853(obs.)"
 					},
 					{
 						"name": "Space Group",
@@ -2551,7 +2551,7 @@ const data = [
 						"value": "Ni-bound GloA2"
 					},
 					{
-						"name": "Unit Cell (\\u00c5,\\u00b0)",
+						"name": "Unit Cell (\u00c5,\u00b0)",
 						"value": "(a = 41.145, b = 74.983, c = 80.362),(alpha = 90.00, beta = 90.00, gamma = 90.00)"
 					},
 					{
@@ -2838,7 +2838,7 @@ const data = [
 			"Tom Caradoc-Davies",
 			"Katherine Baran",
 			"Michelle A. Dunstone",
-			"Michael E. D\\u2019Angelo",
+			"Michael E. D\u2019Angelo",
 			"Fasseli Coulibaly",
 			"Sandra Verschoor",
 			"Kylie A. Browne",
@@ -3075,8 +3075,6 @@ const data = [
 		"size": 19630080000
 	}
 ]
-
-
 function ordinal_suffix_of(i) {
     let j = i % 10,
         k = i % 100;
@@ -3154,7 +3152,8 @@ function create_elems() {
 	const dataset_data = exp_data.datasets
 	dataset_data.forEach( dataset => {
 		//create card elem
-		datasetTilesList.append(htmlToElement(`<li class="dataset card mb-2 ui-sortable-handle" style="margin-left: 0">
+		datasetTilesList.append(htmlToElement(`
+		<li class="dataset card mb-2 ui-sortable-handle" style="margin-left: 0">
 			<div class="dataset-tile thumbnail">
 			<div class="card-body">
 			<div class="float-left" style="margin-right: 10px">
@@ -3171,23 +3170,20 @@ function create_elems() {
 			</div>
 			<div class="float-right" style="text-align: right">
 			<p>
-			<span class="badge badge-info" title="Contains 360 files">
+			<span class="badge badge-info" title="Contains ${dataset.file_count} files">
 			<i class="icon-file"></i>&nbsp;
-			360
+			${dataset.file_count}
 			</span>
 			</p>
 			<p>
 			<span class="badge badge-info" title="Dataset size is ">
-			6.3&nbsp;GB
+			${dataset.size}
 			</span>
 			</p>
 			</div>
-			 <!--<div class="float-left ds-thumb" style="">\n' +
-			<canvas></canvas>\n' +
-			</div>-->
 			<p class="">
 			<a class="dataset-link">
-			Raw data for D3_1
+			${dataset.description}
 			</a>
 			</p>
 			<p style="color:grey;font-size:100%;">Folder:
@@ -3196,6 +3192,46 @@ function create_elems() {
 			<div style="clear: both"></div>
 			</div>
 			</div>
-			</li>`))
+		</li>
+	`))
+	})
+	//meta data
+	const metaDataPane = document.querySelector("#experiment-tab-metadata")
+	const metadataData = exp_data.metadata
+	metadataData.forEach(elem => {
+		const th_data = elem.name
+		const table_div = document.createElement('div')
+		table_div.setAttribute("style", "margin-top: 10px")
+		const table_elem = document.createElement('table')
+		table_elem.setAttribute("class", "parameter_table table table-striped table-bordered protein-data-bank")
+		const table_body = document.createElement('tbody')
+		table_elem.appendChild(table_body)
+		table_body.append(htmlToElement(`
+			<tr>
+				<th class="schema_name" title="http://synchrotron.org.au/pub/mx/pdb/ (immutable)" colspan="2">
+					${th_data}
+				</th>
+			</tr>		
+		`))
+		const metadata_values = elem.values
+		metadata_values.forEach(value => {
+			//apend row
+			const row_elem = document.createElement('tr')
+			const row_td = document.createElement('td')
+			row_td.setAttribute("class", "parameter_name")
+			row_td.textContent = value.name
+			row_elem.appendChild(row_td)
+            //append value
+			const value_td = document.createElement('td')
+			value_td.setAttribute("class", "parameter_value")
+			value_td.textContent = value.value
+			row_elem.appendChild(value_td)
+			//
+			table_body.appendChild(row_elem)
+		})
+
+
+		table_div.appendChild(table_elem)
+		metaDataPane.appendChild(table_div)
 	})
 }
