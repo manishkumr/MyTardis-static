@@ -1027,7 +1027,7 @@ exp_array.forEach( elem => {
     title.className = 'card-title'
 	const titleAnchorElem = document.createElement('a')
 	titleAnchorElem.textContent = elem.title
-	titleAnchorElem.setAttribute("href", "/experiment/view/")
+	titleAnchorElem.setAttribute("href", `/experiment/view/${elem.id}`)
 	title.appendChild(titleAnchorElem)
     titleCol.appendChild(title)
     //badges
@@ -1113,7 +1113,7 @@ exp_array.forEach( elem => {
 	paraElem.textContent = "The most recent datasets in this experiment"
 	paraElem.setAttribute("style", "font-style: italic")
 	const datasetList = document.createElement('ul')
-	const datasets = elem.datasets
+	const datasets = elem.datasets.slice(0, 3)
 	datasets.forEach(dataset => {
 		const datsetLi = document.createElement('li')
 		datsetLi.setAttribute("style", "list-style: none")
