@@ -1060,8 +1060,17 @@ exp_array.forEach( elem => {
     const badgeDownloadItem = document.createElement('li')
     badgeDownloadItem.className = 'pull-right mr-2'
     const badgeDownloadSpan = document.createElement('span')
-    badgeDownloadSpan.className = 'badge badge-primary'
-    badgeDownloadSpan.textContent = 'Download as tar'
+	const faDownloadIcon = document.createElement('i')
+	faDownloadIcon.className = 'fa fa-download mr-1'
+	badgeDownloadSpan.appendChild(faDownloadIcon)
+    const downloadAnchor = document.createElement('a')
+	downloadAnchor.href = `/files/${elem.id}.tar.gz`
+	downloadAnchor.innerText = 'Download data as .tar'
+	downloadAnchor.setAttribute("style","text-decoration: underline;")
+	downloadAnchor.setAttribute("style","font-style: italic;")
+
+	badgeDownloadSpan.appendChild(downloadAnchor)
+    //badgeDownloadSpan.textContent = 'Download as tar file'
     badgeDownloadItem.appendChild(badgeDownloadSpan)
     //date
     const badgeDateItem = document.createElement('li')
@@ -1118,7 +1127,7 @@ exp_array.forEach( elem => {
 		const datsetLi = document.createElement('li')
 		datsetLi.setAttribute("style", "list-style: none")
 		const datasetAnchor = document.createElement('a')
-		datasetAnchor.setAttribute("href", `/dataset/${dataset.id}`)
+		//datasetAnchor.setAttribute("href", `/dataset/${dataset.id}`)
 		datasetAnchor.setAttribute("style", "font-weight: 700")
 		datasetAnchor.textContent = dataset.description
 		datsetLi.appendChild(datasetAnchor)

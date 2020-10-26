@@ -3137,7 +3137,7 @@ function create_elems() {
     const df_count = document.querySelector("body > div.container-fluid > div.row > div > div.page-header > p > span:nth-child(2)")
     df_count.textContent = exp_data.datafile_count
     const exp_size = document.querySelector("body > div.container-fluid > div.row > div > div.page-header > p > span:nth-child(3)")
-    exp_size.textContent = exp_data.size
+    exp_size.textContent = filesize(exp_data.size)
     const date = new Date(exp_data.date_modified)
     const dateTimeFormat = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: '2-digit' })
     let [{ value: month },,{ value: day },,{ value: year }] = dateTimeFormat .formatToParts(date )
@@ -3152,6 +3152,7 @@ function create_elems() {
 	const dataset_data = exp_data.datasets
 	dataset_data.forEach( dataset => {
 		//create card elem
+		var size = filesize(dataset.size)
 		datasetTilesList.append(htmlToElement(`
 		<li class="dataset card mb-2 ui-sortable-handle" style="margin-left: 0">
 			<div class="dataset-tile thumbnail">
@@ -3177,7 +3178,7 @@ function create_elems() {
 			</p>
 			<p>
 			<span class="badge badge-info" title="Dataset size is ">
-			${dataset.size}
+			${size}
 			</span>
 			</p>
 			</div>
