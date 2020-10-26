@@ -3122,6 +3122,9 @@ function create_elems() {
         author_span.appendChild(author_name_span)
         authors_elem.appendChild(author_span)
     })
+	// Description
+    const description_elem = document.querySelector("#abstractHolder")
+	description_elem.textContent = exp_data.description
     //populate description tab
     const inst_elem = document.querySelector("#experiment_description > dl:nth-child(1) > dd")
     inst_elem.textContent = exp_data.description.institution
@@ -3162,10 +3165,6 @@ function create_elems() {
 			<i class="fa fa-folder-open o-6"></i>
 			</div>
 			<br>
-			<label class="dataset-download-box badge badge-info" for="dataset-checkbox-54331" title="Mark dataset for download">
-			<i class="icon-download-alt"></i>
-			<input id="dataset-checkbox-54331" name="dataset" type="checkbox" class="dataset_checkbox" style="display: inline" value="54331">
-			 </label>
 			</div>
 			<div class="float-left" style="margin-right: 10px">
 			</div>

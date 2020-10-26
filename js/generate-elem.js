@@ -1040,6 +1040,7 @@ exp_array.forEach( elem => {
     //access
     const badgeAccessSpan = document.createElement('span')
     badgeAccessSpan.className = 'badge badge-success'
+	badgeAccessSpan.title= 'Public access'
     badgeAccessSpan.textContent = 'Public'
     badgeAccessItem.appendChild(badgeAccessSpan)
     //datafile
@@ -1048,6 +1049,7 @@ exp_array.forEach( elem => {
     const badgeFilesSpan = document.createElement('span')
     badgeFilesSpan.className = 'badge badge-info'
     badgeFilesSpan.textContent = elem.datafile_count
+	badgeFilesSpan.title = `${elem.datafile_count} files `
     badgeDataFileItem.appendChild(badgeFilesSpan)
     //dataset
     const badgeDataSetItem = document.createElement('li')
@@ -1055,6 +1057,7 @@ exp_array.forEach( elem => {
     const badgeDatasetSpan = document.createElement('span')
     badgeDatasetSpan.className = 'badge badge-info'
     badgeDatasetSpan.textContent = elem.dataset_count
+	badgeDatasetSpan.title = `${elem.dataset_count} datasets`
     badgeDataSetItem.appendChild(badgeDatasetSpan)
     // download
     const badgeDownloadItem = document.createElement('li')
