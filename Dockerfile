@@ -10,4 +10,4 @@ ADD css /app/css
 ADD html /app/html
 ADD js /app/js
 ADD data /app/data
-ADD files /app/files
+# ADD files /app/files
