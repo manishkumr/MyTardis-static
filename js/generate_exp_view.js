@@ -4133,6 +4133,8 @@ function create_elems() {
     const lic_elem = document.querySelector("#experiment_description > dl:nth-child(2) > dd > div > div:nth-child(1) > a")
     lic_elem.textContent = exp_data.description.license.license
     lic_elem.setAttribute("href", exp_data.description.license.url)
+	const tar_elem = document.querySelector("#experiment_description > dl.row.download_entire_experiment > dd > a")
+	tar_elem.href = `/files/${experiment_id}.tar.gz`
      // admin
     const admin_elem = document.querySelector("#experiment_description > dl:nth-child(3) > dd > a > span")
     admin_elem.textContent = exp_data.description.admins[0]
